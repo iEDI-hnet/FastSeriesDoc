@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd" id="getting-started" title="Getting Started" help-id="approve-home;Getting-Started">
+
+    <section-starting-page>
+        <title>Getting Started</title>
+        <description>
+            Read about the features and how to install and getting started with %product% in a few steps
+        </description>
+
+        <spotlight>
+            <a href="Overview.md" type="presentation" summary="Get an overview of %product% and the functionality available">Overview</a>
+            <a href="About.md" type="learn" summary="Learn where you can get %product% and other %series% apps"/>
+        </spotlight>
+
+        <primary>
+            <title>First steps</title>
+            <a href="Installation.md" type="check-list" summary="Learn how to install %product% on your PC using a local or hosted database">Installation</a>
+            <a href="" type="data" summary="Create your first products or import products as CSV file.">Add Products</a>
+            <a href="" type="community" summary="As the administrator of %product% you can add additional users and invite them by E-mail">Add Users</a>
+            <a href="" type="branch" summary="Keep your system up to date with automatic updates">Checking for updates</a>
+        </primary>
+
+        <misc>
+            <cards narrow="true">
+                <title>Configuration</title>
+                <a href="" summary="Configure communication between FastSeries applications">Communication</a>
+                <a href="" summary="Maintain rules for sharing documents in public space for customers, suppliers, accountants etc.">Public Sharing</a>
+                <a href="" summary="Enable the real-time EDI file exchange feature to send and receive electronic data interchanges">Using EDI</a>
+                <a href="" summary="Get your own custom apps designed by experts to solve your specific issues">Custom Apps</a>
+            </cards>
+
+            <links>
+                <group>
+                    <title>Other related topics as links</title>
+                    <a href="Overview.md" summary="Overview"/>
+                    <a href="About.md" summary="About FastProducts"/>
+                </group>
+            </links>
+
+        </misc>
+    </section-starting-page>
+
+</topic>

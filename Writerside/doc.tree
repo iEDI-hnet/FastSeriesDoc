@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="doc" name="iEDI FastProducts" start-page="getting-started.topic">
+    <toc-element topic="getting-started.topic">
+        <toc-element topic="Installation.md"/>
+        <toc-element topic="About.md"/>
+        <toc-element topic="Overview.md"/>
+    </toc-element>
+    <toc-element topic="products.topic">
+        <toc-element topic="create-products.md"/>
+        <toc-element topic="import-csv.md"/>
+        <toc-element topic="categories-list.md"/>
+        <toc-element topic="variants.md"/>
+        <toc-element topic="product-card.md"/>
+        <toc-element topic="specific-pricing.md"/>
+    </toc-element>
+    <toc-element topic="catalogues.topic">
+        <toc-element topic="Create-catalogue.md"/>
+        <toc-element topic="sharing-export-catalogue.md"/>
+        <toc-element topic="specific-price-catalogue.md" />
+    </toc-element>
+    <toc-element topic="sharing.topic"/>
+
+
+</instance-profile>
