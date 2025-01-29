@@ -3,6 +3,7 @@ How to create and use product variants
 
 Product variants are extending original product information for different variations based on combination of product options (e.g. color, size, style, material, etc.).
 
+![%product%](variants.png) { width="500" }
 In short, there are 2 main steps in using product variants:
 1. Create variants, click the Create a Variant button on Products page => Variants tab
 Configure variants first:
