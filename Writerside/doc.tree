@@ -21,9 +21,10 @@
         <toc-element topic="sharing-export-catalogue.md"/>
         <toc-element topic="specific-price-catalogue.md" />
     </toc-element>
-    <toc-element topic="sharing.topic"/>
+    <toc-element topic="sharing.topic">
+        <toc-element topic="customer.md"/>
+    </toc-element>
     <toc-element topic="images.md"/>
     <toc-element topic="settings.md"/>
-
 
 </instance-profile>
