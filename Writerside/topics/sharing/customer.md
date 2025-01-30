@@ -1,6 +1,8 @@
-# Customers, companies and environments
+# Customers, companies and environment
 
 ### Customers
+
+![%product%](customer.png) { width="700" }
 
 For create Customers List you need:
 1. Open Sharing page 
@@ -10,7 +12,7 @@ Customers list can be used for creating customer specific pricing catalogue.
 
 ### Environment
 
-Your environment is your organization and will be created automatically when you create your %products% account. 
+Your environment is your organization and will be created automatically when you create your %product% account. 
 In the Setting, you can add your environment logo or useful links.
 
 ### Companies
