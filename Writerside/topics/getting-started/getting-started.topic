@@ -32,7 +32,7 @@
 
             <links>
                 <group>
-                    <title>Other related topics as links</title>
+                    <title>Other related topics</title>
                     <a href="Overview.md" summary="Overview"/>
                     <a href="About.md" summary="About FastProducts"/>
                 </group>

@@ -17,7 +17,7 @@ This is due to your administrator has already configured the system for you.
 
 In that case you only need to install the app and accept the conditions from your admin.
 
-After installation just choose **join my organization** and type the <tooltip term="OrganizationToken">organization token</tooltip>
+After installation just choose **join my organization** and type the organization token
 you received in the invitation E-mail sent by your administrator.
 
 After that you'll become a user of the organization you've joined.
@@ -39,15 +39,11 @@ If you intend to use mobile clients or working from home a hosted database is be
 When all work is done inside your company and remote users connects through a VPN then a local
 network server is the best installation type.
 
-> %product% performs just as fast on a hosted database as on a local server.  
-> This is due to all client PC's having their own replicated search index.
-{style="note"}
+> %product% performs just as fast on a hosted database as on a local server.
 
 ## Hosted solution?
 
-The easiest way to get started is using a hosted database and image repository.
-
-<tooltip term="iEDI.com">iEDI.com</tooltip>, the developers of %product%, also offers ready-made database and image repository hosting 
+[iEDI.com](https://iedi.com/), the developers of %product%, also offers ready-made database and image repository hosting 
 which you enable directly from inside %product%.
 
 On iEDI you'll get a 10GB free tier and for many companies this is a good start.
@@ -104,4 +100,4 @@ sequenceDiagram
 > %product% will give the same user experience regardless of environment used
 
 You've completed the installation.  
-Next step will be creating your [First Product](../products/create-products).
+Next step will be creating your [First Product](create-products.md).
