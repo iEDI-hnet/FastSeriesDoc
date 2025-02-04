@@ -45,13 +45,12 @@ FastProducts Import Assistant  allows you to:
 
 ### Before You Start
 ### Requirements
-    - CSV file with product data
-
-    - First row must have field names and these column names must match your product fields
-
-    - Name and number fields are required for new products
-
-    - Other fields are optional
+1. CSV file with product data.
+2. First row must have field names and these column names must match your product fields.
+3. Product Name, Product Number, Product Price and Unit Code fields are required for new products. 
+4. Other fields are optional.
+5. Required fields can't contain empty cells.
+6. Product Price must be numeric.
 
 ## Step-by-Step Import Process
 
@@ -89,9 +88,9 @@ FastProducts Import Assistant  allows you to:
     - Alternative: Copy/paste directly into import
 
     2. Missing Data
-    - Required fields not populated
-    - Category mismatches
-    - Invalid collection paths
+    - Required fields not populated or contain empty cells.
+    - Category mismatches.
+    - The Price field is not an integer or decimal value or has text characters.
 
 ### Need Help?
 Contact our support team through chat for assistance with:
