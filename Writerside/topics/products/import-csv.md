@@ -9,7 +9,7 @@ FastProducts Import Assistant  allows you to:
 
 - Update existing product information in bulk.
 
-- Add products to categories and catalogues.
+- Add products to catalogues.
 
 ## Quick Start Guide
 ### Common Scenarios
@@ -72,7 +72,7 @@ FastProducts Import Assistant  allows you to:
     You can:
     - Confirm new fields
     - Set data types for new fields
-    -Map missing required fields 
+    - Map missing required fields 
 
 
 4. Preview and Import

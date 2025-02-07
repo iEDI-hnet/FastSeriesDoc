@@ -23,6 +23,7 @@
     </toc-element>
     <toc-element topic="sharing.topic">
         <toc-element topic="customer.md"/>
+        <toc-element topic="import-customers.md"/>
     </toc-element>
     <toc-element topic="images.md"/>
     <toc-element topic="settings.md"/>
