@@ -3,7 +3,7 @@
 ![%product%](create-1.png) { width="700" }
 
 ## Overview
-FastProducts Import Assistant  allows you to:
+%product% Import Assistant  allows you to:
 
 - Import new products and variants from spreadsheets.
 
