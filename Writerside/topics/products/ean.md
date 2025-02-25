@@ -7,9 +7,9 @@ Use the EAN/UPC list to locate products to check if they have a common identific
 ## Barcodes
 How to use barcodes for products and variants
 
-%product% can convert any product or variant field into Barcode format. You can display them in catalogs or quotes.
+%product% can convert any product or variant field into Barcode format. You can display them in catalogues.
 
-You can print the barcode(s) in 4 different ways:
+You can print the barcode(s) in 3 different ways:
 
 1. <b>EAN/UPC Tab.</b> Create barcode for 1 specific product or variant by clicking on «Barcode» icon near each product in the product list.
    ![%product%](barcode-1.png) { width="700" }
