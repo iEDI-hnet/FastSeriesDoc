@@ -24,6 +24,10 @@ JSON (JavaScript Object Notation) is a human-readable format for exchanging data
 If your current tool is unable to export in the JSON format, you may wish to create the file manually.
 To prepare the [JSON file](https://www.json.org/json-en.html), you should use the standard JSON format, and follow the pattern detailed below.
 
+```kotlin
+```
+{ src="json-1.kt" }
+
 ### 2. Start Import
    - Navigate to Import Assistant
    - Upload file or paste content
@@ -42,9 +46,8 @@ To prepare the [JSON file](https://www.json.org/json-en.html), you should use th
    - Monitor progress
 
 ### Common Issues and Solutions
-    1. Encoding Problems
-    - Symptoms: Garbled text, missing characters
-    - Solution: Save as UTF-8 CSV
+    1. Not supported JSON pattern
+    - Solution: Change JSON file
 
     2. Missing Data
     - Required fields not populated.
