@@ -11,6 +11,7 @@
     <toc-element topic="products.topic">
         <toc-element topic="create-products.md"/>
         <toc-element topic="import-csv.md"/>
+        <toc-element topic="import-json.md"/>
         <toc-element topic="categories-list.md"/>
         <toc-element topic="variants.md"/>
         <toc-element topic="product-card.md"/>
