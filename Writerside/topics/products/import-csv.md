@@ -56,7 +56,7 @@
    - Use CSV format
 2. Start Import
    - Navigate to Import Assistant
-   - Upload file or paste content
+   - Upload file 
    - Uncheck if your CSV file not includes header row
    - Add name for your future catalogue.
 
