@@ -1,6 +1,6 @@
 # Importing Products from JSON
 
-![%product%](create-3.png) { width="700" }
+![%product%](create-json.png) { width="700" }
 
 ## Overview
 %product% Import Assistant  allows you to:
