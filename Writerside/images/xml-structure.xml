@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<id>Product Unique ID</id>
+		<product_code>Product Model or SKU</product_code>
+		<barcode>Product Barcode</barcode>
+		<title>Product Title</title>
+		<description>Product description</description>
+		<category>Product main category</category>
+		<sub_category>Product sub category</sub_category>
+		<sub_sub_category>Product sub category</sub_sub_category>
+		<category_properties>
+			<category_property name="Name of the category property name - Example -Screen Size">
+				<values>
+					<value>
+						<name>Value of the category property - Example 1920 x 1080</name>
+					</value>
+					<value>
+						<name>Value of the category property - Example 1440 x 960</name>
+					</value>
+				</values>
+			</category_property>
+			<category_property name="Name of the category property name - Example -RAM">
+				<values>
+					<value>
+						<name>Value of the category property - Example 4 GB</name>
+					</value>
+					<value>
+						<name>Value of the category property - Example 8 GB</name>
+					</value>
+				</values>
+			</category_property>
+		</category_properties>
+		<manufacturer>Manufacturer name</manufacturer>
+		<price>Must be numeric</price>
+		<old_price>Must be numeric or Empty</old_price>
+		<weight>Must be numeric</weight>
+		<sku>SKU of the product</sku>
+		<quantity>Must be numeric</quantity>
+		<images>
+			<image>Product Image Full URL</image>
+		</images>
+		<tags>Tag name of the product separated by comma</tags>
+		<meta_title>Product Meta Title</meta_title>
+		<meta_description>Product Meta Description</meta_description>
+		<options>
+			<option name="Name of the product variation 1 - Example - Size">
+				<values>
+					<value sku="Product SKU" quantity="Must be numeric" price="Must be numeric" image="link to the image">
+						<name>Value of the product variation 1 - Example XS</name>
+						<stores>
+							<store>
+								<name>Store name</name>
+								<quantity>Variant quantity for store</quantity>
+							</store>
+						</stores>
+					</value>
+					<value sku="Product SKU" quantity="Must be numeric" price="Must be numeric" image="link to the image">
+						<name>Value of the product variation 2 - Example S</name>
+						<stores>
+							<store>
+								<name>Store name</name>
+								<quantity>Variant quantity for store</quantity>
+							</store>
+						</stores>
+					</value>
+				</values>
+			</option>
+			<option name="Name of the product variation 2 - Example: Color">
+				<values>
+					<value sku="Product SKU" quantity="Must be numeric" price="Must be numeric" image="link to the image">
+						<name>Value of the product variation 1 - Example RED</name>
+						<stores>
+							<store>
+								<name>Store name</name>
+								<quantity>Variant quantity for store</quantity>
+							</store>
+						</stores>
+					</value>
+					<value sku="Product SKU" quantity="Must be numeric" price="Must be numeric" image="link to the image">
+						<name>Value of the product variation 2 - Example Green</name>
+						<stores>
+							<store>
+								<name>Store name</name>
+								<quantity>Variant quantity for store</quantity>
+							</store>
+						</stores>
+					</value>
+				</values>
+			</option>
+		</options>
+		<brands>
+			<brand>
+				<name>Rolls-Royce</name>
+				<model>
+					<name>Cullinan</name>
+					<name>Dawn</name>
+					<name>Ghost</name>
+					<name>Phantom</name>
+					<name>Wraith</name>
+				</model>
+			</brand>
+		</brands>
+		<tabs>
+			<tab>
+				<name>Tab name</name>
+				<content>Tab content</content>
+			</tab>
+			<tab>
+				<name>Tab name</name>
+				<content>Tab content</content>
+			</tab>
+		</tabs>
+		<stores>
+			<store>
+				<name>Store name</name>
+				<quantity>Product quantity for store</quantity>
+			</store>
+			<store>
+				<name>Store name</name>
+				<quantity>Product quantity for store</quantity>
+			</store>
+		</stores>
+	</product>
+</products>
