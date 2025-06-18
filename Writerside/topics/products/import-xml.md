@@ -1,6 +1,6 @@
 # Importing Products from XML
 
-![%product%](create-json.png) { width="700" }
+![%product%](create-xml.png) { width="700" }
 
 ## Overview
 %product% Import Assistant  allows you to:
@@ -41,7 +41,7 @@ A well-formed XML file conforms to a set of very strict rules that govern XML. I
 You don't have to know the rules for creating well-formed XML, but you should remember that you can share XML data between programs and systems only if the data is properly formed. If you cannot open an XML file, it is very likely that this file does not have the correct structure.
 
 >
-> Here you can see the structure of a well-formed sample [XML file](https://iedi-hnet.github.io/FastSeriesDoc/FastSeriesDoc/xml-structure.xml).
+> Here you can see the structure of a well-formed sample [XML file](https://raw.githubusercontent.com/iEDI-hnet/FastSeriesDoc/main/Writerside/images/xml-structure.xml).
 ### 2. Start Import
    - Navigate to Import Assistant.
    - Upload XML file.
