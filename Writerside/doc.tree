@@ -2,7 +2,7 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="doc" name="iEDI FastProducts" start-page="getting-started.topic">
+<instance-profile id="doc" name="FastProducts" start-page="getting-started.topic">
     <toc-element topic="getting-started.topic">
         <toc-element topic="Installation.md"/>
         <toc-element topic="About.md"/>
