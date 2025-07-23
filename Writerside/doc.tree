@@ -13,6 +13,7 @@
         <toc-element topic="import-csv.md"/>
         <toc-element topic="import-json.md"/>
         <toc-element topic="import-xml.md"/>
+        <toc-element topic="import-overwrite.md"/>
         <toc-element topic="categories-list.md"/>
         <toc-element topic="variants.md"/>
         <toc-element topic="product-card.md"/>
