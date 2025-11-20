@@ -1,16 +1,17 @@
 # Settings
 
-## Language
-You can localize your user site interface for 2 languages (English, Danish).
+## Company Information
+You can maintain your company settings like name, address, identifications and logo.
 
-To set your site UI language just go to Settings page, select Language and update your settings.
+## Sharing Quality Level Rules
+You  can adjust your rules so partners know what to deliver for your webshop.
 
-## Environment Logo
+## Pause Synchronization
+Pauses FastSync from synchronizing your shared catalogues.
 
-Add your Business Logo to appear in PDF documents (product cards, quotes and catalogues).
+## Billing history
+Check invoices and billing history from the Microsoft Store.
 
-## Environment working links
-
-Add your Business Links to be displayed in PDF documents (product cards, quotes and catalogues).
-
-## Log Out
+## Support
+Request support from the experts.
+Get help, watch how-to videos.
