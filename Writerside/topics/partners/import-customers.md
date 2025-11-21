@@ -1,10 +1,10 @@
-# Importing Customers List from CSV
+# Importing Customers or Suppliers List from CSV
 
 ## Before You Start
 ### Requirements
-1. CSV file with customers data.
+1. CSV file with customers or suppliers data.
 2. First row must have field names and these column names must match your product fields.
-3. Customer Name and Customer Number fields are required for new customers.
+3. Customer Name (Supplier Name) and Customer Number (Supplier Number)fields are required for new customers (supplier).
 4. Other fields are optional.
 5. Required fields can't contain empty cells.
 
@@ -13,7 +13,7 @@
 1. Prepare Your File
     - Use CSV format
 2. Start Import
-    - Navigate to Import Assistant → CSV:
+    - Navigate to Import Customer (Supplier):
     - Check if your CSV file includes header row
     - Select file format, quote, and decimal separator
     - Upload file or paste content
