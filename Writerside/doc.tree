@@ -24,8 +24,9 @@
     </toc-element>
     <toc-element topic="catalogues.topic">
         <toc-element topic="Create-catalogue.md"/>
-        <toc-element topic="sharing-export-catalogue.md"/>
+        <toc-element topic="sharing-export-catalogue.md" />
         <toc-element topic="specific-price-catalogue.md" />
+        <toc-element topic="campaigns.md" />
     </toc-element>
     <toc-element topic="partners.topic">
         <toc-element topic="customer.md"/>
